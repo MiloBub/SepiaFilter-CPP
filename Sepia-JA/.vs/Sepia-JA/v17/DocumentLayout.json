@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\cppsepia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:cppsepia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703820DB-A3D8-4EBC-B17C-E3E2111AE9FD}|..\\SepiaCPP\\SepiaCPP.vcxproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\SepiaCPP\\sepia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|h:\\projekty\\visual_studio\\sepia-ja\\sepia-ja\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bytesarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:bytesarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\gui.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:gui.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\gui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:gui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:bitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\asmsepia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:asmsepia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECB591C-D484-4060-B6BE-F3EC52232D01}|..\\Sepia_ASM\\Sepia_ASM.vcxproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia_ASM\\sepia.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:sepiamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:sepiainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:sepiafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\pixelsarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3AD7C-1C24-44D2-A385-D741E752CA2F}|Sepia-JA.csproj|solutionrelative:pixelsarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\394ea766eb5f2305915cfb6b54d1bfa6768c18e1de1e70dcd443a17762750e16\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\SepiaCPP\\sepia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SepiaCPP\\sepia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\Sepia_ASM\\sepia.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sepia_ASM\\sepia.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUI.cs [Design]",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.cs",
+              "RelativeDocumentMoniker": "GUI.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.cs [Design]",
+              "RelativeToolTip": "GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:29:52.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sepia.cpp",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\SepiaCPP\\sepia.cpp",
+              "RelativeDocumentMoniker": "..\\SepiaCPP\\sepia.cpp",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\SepiaCPP\\sepia.cpp",
+              "RelativeToolTip": "..\\SepiaCPP\\sepia.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T15:28:32.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GUI.resx",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.resx",
+              "RelativeDocumentMoniker": "GUI.resx",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.resx",
+              "RelativeToolTip": "GUI.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-19T14:31:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bytesArray.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bytesArray.cs",
+              "RelativeDocumentMoniker": "bytesArray.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bytesArray.cs",
+              "RelativeToolTip": "bytesArray.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cppSepia.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\cppSepia.cs",
+              "RelativeDocumentMoniker": "cppSepia.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\cppSepia.cs",
+              "RelativeToolTip": "cppSepia.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enumTypes.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\enumTypes.cs",
+              "RelativeDocumentMoniker": "enumTypes.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\enumTypes.cs",
+              "RelativeToolTip": "enumTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.cs",
+              "RelativeDocumentMoniker": "GUI.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.cs",
+              "RelativeToolTip": "GUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUI.Designer.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.Designer.cs",
+              "RelativeDocumentMoniker": "GUI.Designer.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\GUI.Designer.cs",
+              "RelativeToolTip": "GUI.Designer.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAACoBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:29:56.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sepiaFactory.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaFactory.cs",
+              "RelativeDocumentMoniker": "sepiaFactory.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaFactory.cs",
+              "RelativeToolTip": "sepiaFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pixelsArray.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\pixelsArray.cs",
+              "RelativeDocumentMoniker": "pixelsArray.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\pixelsArray.cs",
+              "RelativeToolTip": "pixelsArray.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sepia.asm",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia_ASM\\sepia.asm",
+              "RelativeDocumentMoniker": "..\\Sepia_ASM\\sepia.asm",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia_ASM\\sepia.asm",
+              "RelativeToolTip": "..\\Sepia_ASM\\sepia.asm",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T15:28:37.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sepiaInterface.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaInterface.cs",
+              "RelativeDocumentMoniker": "sepiaInterface.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaInterface.cs",
+              "RelativeToolTip": "sepiaInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "asmSepia.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\asmSepia.cs",
+              "RelativeDocumentMoniker": "asmSepia.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\asmSepia.cs",
+              "RelativeToolTip": "asmSepia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bitmap.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bitmap.cs",
+              "RelativeDocumentMoniker": "bitmap.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\bitmap.cs",
+              "RelativeToolTip": "bitmap.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:11.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sepiaManager.cs",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaManager.cs",
+              "RelativeDocumentMoniker": "sepiaManager.cs",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\sepiaManager.cs",
+              "RelativeToolTip": "sepiaManager.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:31:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sepia.cpp",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\SepiaCPP\\sepia.cpp",
+              "RelativeDocumentMoniker": "SepiaCPP\\sepia.cpp",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\SepiaCPP\\sepia.cpp",
+              "RelativeToolTip": "SepiaCPP\\sepia.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T14:31:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sepia.asm",
+              "DocumentMoniker": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\Sepia_ASM\\sepia.asm",
+              "RelativeDocumentMoniker": "Sepia_ASM\\sepia.asm",
+              "ToolTip": "H:\\projekty\\Visual_Studio\\Sepia-JA\\Sepia-JA\\Sepia_ASM\\sepia.asm",
+              "RelativeToolTip": "Sepia_ASM\\sepia.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T14:31:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\394ea766eb5f2305915cfb6b54d1bfa6768c18e1de1e70dcd443a17762750e16\\Task.cs",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\394ea766eb5f2305915cfb6b54d1bfa6768c18e1de1e70dcd443a17762750e16\\Task.cs",
+              "ViewState": "AQIAAG8PAAAAAAAAAAASwHoPAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:27:18.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
